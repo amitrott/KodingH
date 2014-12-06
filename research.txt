@@ -5,3 +5,7 @@ http://www.w3schools.com/xpath/xpath_examples.asp
 http://stackoverflow.com/questions/6366351/getting-dom-elements-by-class-name
 }
 http://php.net/manual/en/class.domelement.php#86224
+{
+http://php.net/manual/en/reference.pcre.pattern.modifiers.php
+http://www.harecoded.com/true-multiline-regexp-in-php-the-i-miss-u-technique-2286008
+}
