@@ -1,6 +1,4 @@
 <?php
-header("Content-Type: text/plain; charset=UTF-8");
-
 function getTOS($url,$nodeType,$id) {
     $ch = curl_init();
     curl_setopt ($ch, CURLOPT_URL, $url);
@@ -51,6 +49,7 @@ function interleaveArrays($h,$b) {
     return $res;
 }
 
-var_dump(getTOS("http://www.google.com/intl/en/policies/terms/","class","maia-article"));
+/*var_dump(getTOS("http://www.google.com/intl/en/policies/terms/","class","maia-article"));
 var_dump(getTOS("https://koding.com/tos.html","class","tos"));
+var_dump(getTOS("https://koding.com/tos.html","id","LuckyAnchor_761053000_165"));*/
 ?>

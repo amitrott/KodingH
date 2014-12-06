@@ -1,0 +1,14 @@
+#canvas {
+    min-width: 1000px;
+    max-width: 1000px;
+    min-height: 100px;
+    margin: auto;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    position: relative;
+    top:100px;
+    padding: 33px;
+    font-family:arial,helvetica;
+}
