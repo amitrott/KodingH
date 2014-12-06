@@ -1,0 +1,7 @@
+http://stackoverflow.com/questions/8254212/php-and-curl-query-and-how-to-retrieve-response-in-variable
+http://php.net/manual/en/domdocument.loadhtml.php
+{
+http://www.w3schools.com/xpath/xpath_examples.asp
+http://stackoverflow.com/questions/6366351/getting-dom-elements-by-class-name
+}
+http://php.net/manual/en/class.domelement.php#86224
