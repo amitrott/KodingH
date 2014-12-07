@@ -30,7 +30,7 @@ function showSlide(num) {
     num = (num==='' || num===null || typeof(num)=="undefined")?0:Number(num);
     this.current=num;
     an = num+1 < this.total ? "<a href=\"javascript:nav.showSlide('"+Number(num+1)+"');\">Next</a>":"";
-    ap = num == 0 ? "":"<a href=\"javascript:nav.showSlide('"+Number(num-1)+"');\">Previous</a>";
+    ap = num === 0 ? "":"<a href=\"javascript:nav.showSlide('"+Number(num-1)+"');\">Previous</a>";
     $('#canvas').fadeOut("fast").html(Number(num+1)+" of "+this.total+"\
     <br /><a href=\""+this.fullURL +"\">View full document</a><br />\
     <b>"+this.slides[num][0]+"</b><p>"+this.slides[num][1]+"</p>\

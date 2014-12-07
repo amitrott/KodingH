@@ -13,3 +13,4 @@ http://www.w3schools.com/jsref/jsref_random.asp
 http://stackoverflow.com/questions/57803/how-to-convert-decimal-to-hex-in-javascript
 http://stackoverflow.com/questions/894860/set-a-default-parameter-value-for-a-javascript-function
 http://www.w3schools.com/js/js_type_conversion.asp
+http://www.w3schools.com/jquery/jquery_fade.asp
