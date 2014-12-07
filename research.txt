@@ -12,3 +12,4 @@ http://www.harecoded.com/true-multiline-regexp-in-php-the-i-miss-u-technique-228
 http://www.w3schools.com/jsref/jsref_random.asp
 http://stackoverflow.com/questions/57803/how-to-convert-decimal-to-hex-in-javascript
 http://stackoverflow.com/questions/894860/set-a-default-parameter-value-for-a-javascript-function
+http://www.w3schools.com/js/js_type_conversion.asp

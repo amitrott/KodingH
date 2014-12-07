@@ -1,3 +1,6 @@
+<?php
+header("Content-Type: text/html; charset=UTF-8");
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,7 +11,7 @@
 </head>
 <body>
 <div id="canvas">
-Select the predefined TOS to load: <br />
+Select the predefined TOS to load (refresh the page to return here): <br />
 <?php
 require_once('populateTOS.php');
 
