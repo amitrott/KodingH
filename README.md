@@ -25,8 +25,6 @@ modify 'populateTOS.php' to provide the URL and main container of the TOS/EULA.
 
 ## Screenshots
 
-Here provide couple screenshots of your project. You can use a tool like https://monosnap.com/welcome or https://droplr.com to take a screenshot. Animated gifs are also welcome.
-
 ![1](https://cloud.githubusercontent.com/assets/9977287/5334909/4f4abe8a-7e63-11e4-86db-b7d97d3fac24.png)
 ![2](https://cloud.githubusercontent.com/assets/9977287/5334911/553f3640-7e63-11e4-8968-0733042b4bf4.png)
 ![3](https://cloud.githubusercontent.com/assets/9977287/5334915/6e7a4e88-7e63-11e4-81ba-0c9538e29428.png)
